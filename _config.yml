@@ -18,7 +18,7 @@ sass:
 nav:
  - name: "About"
    link: "/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "Blog"
+   link: "https://cliffyi.tistory.com"
+ - name: "LinkedIn"
+   link: "https://www.linkedin.com/in/승준-이-81b487147/"
