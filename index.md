@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Support](/support)
+
 # About Me
 
 <img class="profile-picture" src="profile.jpg">
