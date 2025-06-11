@@ -1,6 +1,6 @@
 title: Cliff-Lee
 url: "https://sigurnna.github.io"
-baseurl: ""
+baseurl: "/resume"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -18,8 +18,6 @@ sass:
 nav:
  - name: "About"
    link: "/resume"
- - name: "Blog"
-   link: "https://cliffyi.tistory.com"
  - name: "LinkedIn"
    link: "https://www.linkedin.com/in/승준-이-81b487147/"
  - name: "Support"
