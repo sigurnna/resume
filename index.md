@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Support](/support)
+[Support](/home/support)
 
 # About Me
 
